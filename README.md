@@ -1,7 +1,7 @@
 
 # Revisiting Model Fairness via Adversarial Examples
 
-This is the implementation of Revisiting Model Fairness via Adversarial Examples. 
+This is the code for paper 'Revisiting Model Fairness via Adversarial Examples'. 
 
 
 ## Requirements

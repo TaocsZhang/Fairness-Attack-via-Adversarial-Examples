@@ -3,7 +3,7 @@
 
 Authors: **Tao Zhang**, Tianqing Zhu, Jing Li, Wanlei Zhou
 
-This is the code for paper 'Revisiting Model Fairness via Adversarial Examples'. 
+This is the code for my paper 'Revisiting Model Fairness via Adversarial Examples'. 
 
 
 ## Requirements
